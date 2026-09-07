@@ -14,7 +14,7 @@ The platform also provides optional AI assistance to support students with bette
 
 **Website:**  
 https://mate-finder--singhalsahab991.replit.app/
-
+Working for a month due to subscription issue 
 ---
 
 ## 📌 Project Overview
