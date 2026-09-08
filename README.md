@@ -1,149 +1,185 @@
 # FIND A MATE
 
-### Real-Time Study Session & Collaboration Platform
+## Real-Time Study Session & Collaboration Platform
 
-FIND A MATE is a real-time web platform designed to help students instantly create or join study sessions and collaborate with other learners.
+**FIND A MATE** is a real-time web platform designed to help students instantly find study partners, create study sessions, join existing sessions, and collaborate effectively in an interactive online environment.
 
-The platform allows students to participate anonymously while providing moderation and safety features such as join approval, mute controls, and anti-spam protection. Users can communicate through messages, share media, and work together effectively during study sessions.
-
-The platform also provides optional AI assistance to support students with better learning and collaboration.
+The platform supports anonymous participation and provides moderation features such as **join approval, mute controls, participant management, and anti-spam protection**. Users can communicate through real-time messaging, share media, and optionally use AI assistance to improve their learning experience.
 
 ---
 
 ## 🌐 Live Demo
 
-**Website:**  
-https://mate-finder--singhalsahab991.replit.app/
-Working for a month due to subscription issue 
+### [Visit FIND A MATE](https://mate-finder--singhalsahab991.replit.app/)
+
 ---
 
 ## 📌 Project Overview
 
-Finding suitable study partners and coordinating study sessions can be difficult for students. Traditional communication platforms may require registration, provide limited moderation, or lack features specifically designed for focused academic collaboration.
+Finding the right study partner and organizing collaborative study sessions can be challenging for students. Existing communication platforms are often designed for general-purpose communication rather than focused academic collaboration.
 
-FIND A MATE addresses this problem by providing a real-time environment where students can:
+**FIND A MATE** provides a dedicated environment where students can quickly connect with other learners and participate in study sessions.
+
+The platform allows users to:
 
 - Create study sessions
-- Join existing study sessions
-- Communicate with other participants
-- Remain anonymous
+- Join available study sessions
+- Find suitable study partners
+- Participate anonymously
+- Communicate in real time
 - Share messages and media
-- Manage participants using moderation controls
-- Prevent spam and unwanted interactions
-- Optionally use AI assistance for learning
+- Manage participants
+- Approve or reject join requests
+- Mute participants
+- Reduce spam and unwanted messages
+- Use optional AI-powered learning assistance
 
-The main goal is to create a simple, interactive, and collaborative study environment for students.
+The primary objective is to make collaborative studying **simple, interactive, and accessible**.
 
 ---
 
-## 🎯 Objectives
+# 🎯 Objectives
 
-The main objectives of FIND A MATE are:
+The major objectives of FIND A MATE are:
 
 1. To provide students with an easy platform for finding study partners.
 2. To allow users to create and join study sessions in real time.
 3. To support anonymous participation.
-4. To provide effective session moderation.
-5. To enable real-time communication between participants.
-6. To allow users to share messages and media.
+4. To provide moderation and participant-management features.
+5. To enable real-time communication.
+6. To support media sharing during study sessions.
 7. To reduce spam and unwanted interactions.
 8. To provide optional AI-based learning assistance.
-9. To improve collaboration and productivity among students.
+9. To encourage collaborative learning among students.
+10. To create a focused and productive digital study environment.
 
 ---
 
-## ✨ Key Features
+# ✨ Key Features
 
-### 1. Create Study Sessions
+## 1. 👥 Find a Study Mate
 
-Students can create study sessions according to their requirements and invite other students to participate.
-
-### 2. Join Study Sessions
-
-Users can browse available sessions and join a suitable study session.
-
-### 3. Real-Time Collaboration
-
-Participants can communicate and collaborate in real time during an active study session.
-
-### 4. Anonymous Users
-
-Users can participate without necessarily revealing personal identity, making it easier for students to join sessions comfortably.
-
-### 5. Join Approval
-
-Session hosts can control who is allowed to enter a session through join approval functionality.
-
-### 6. Moderation Controls
-
-Session management features allow hosts or authorized users to maintain a productive environment.
-
-Moderation includes:
-
-- Join approval
-- Mute controls
-- Participant management
-- Anti-spam protection
-
-### 7. Messaging
-
-Users can communicate with other participants through real-time messages.
-
-### 8. Media Sharing
-
-Participants can share supported media content during study sessions to improve collaboration.
-
-### 9. Anti-Spam Protection
-
-The platform includes mechanisms to reduce excessive or unwanted messages and maintain a focused study environment.
-
-### 10. Optional AI Assistance
-
-Users can optionally use AI assistance to support learning, understanding, and study-related collaboration.
+Students can connect with other learners and find suitable study partners for collaborative learning.
 
 ---
 
-## 🏗️ System Workflow
+## 2. ➕ Create Study Sessions
 
-The general workflow of FIND A MATE is:
+Users can create their own study sessions and allow other students to participate.
+
+---
+
+## 3. 🔎 Join Study Sessions
+
+Students can discover available study sessions and join sessions according to their interests or requirements.
+
+---
+
+## 4. ⚡ Real-Time Collaboration
+
+Participants can communicate and collaborate in real time without requiring repeated page refreshes.
+
+---
+
+## 5. 🕶️ Anonymous Participation
+
+Users can participate in study sessions without unnecessarily exposing personal identity.
+
+This makes it easier for students to interact comfortably with new study partners.
+
+---
+
+## 6. 🛡️ Join Approval
+
+Session hosts can control access to their sessions by reviewing and approving join requests.
+
+This provides hosts with better control over their study rooms.
+
+---
+
+## 7. 🔇 Mute Controls
+
+Moderators/hosts can mute participants when necessary to maintain a focused and productive study environment.
+
+---
+
+## 8. 🚫 Anti-Spam Protection
+
+The platform includes anti-spam mechanisms to reduce excessive or unwanted messages and prevent misuse of the communication system.
+
+---
+
+## 9. 💬 Real-Time Messaging
+
+Users can communicate with other participants through real-time chat during an active study session.
+
+---
+
+## 10. 📁 Media Sharing
+
+Participants can share supported media content during study sessions to improve collaboration and information sharing.
+
+---
+
+## 11. 🤖 Optional AI Assistance
+
+FIND A MATE provides optional AI assistance to support students during their learning process.
+
+AI assistance can help users with:
+
+- Understanding concepts
+- Learning support
+- Study-related questions
+- Generating useful explanations
+- Improving collaborative learning
+
+The AI feature is optional and does not prevent users from using the main study-session functionality.
+
+---
+
+# 🏗️ System Workflow
+
+The basic workflow of FIND A MATE is:
 
 ```text
-                    ┌──────────────────┐
-                    │      User        │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │   FIND A MATE       │
-                  │      Platform       │
-                  └──────────┬──────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-              ▼                             ▼
-      ┌───────────────┐             ┌───────────────┐
-      │ Create Session│             │ Join Session  │
-      └───────┬───────┘             └───────┬───────┘
-              │                             │
-              └──────────────┬──────────────┘
-                             ▼
-                  ┌─────────────────────┐
-                  │  Session Management │
-                  └──────────┬──────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-          Messaging      Media Sharing   Moderation
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                  ┌─────────────────────┐
-                  │ Real-Time Study &   │
-                  │    Collaboration    │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │ Optional AI Support │
-                  └─────────────────────┘
+                         ┌──────────────────┐
+                         │       USER       │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │    FIND A MATE      │
+                       │      PLATFORM       │
+                       └──────────┬──────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                    ▼                           ▼
+           ┌─────────────────┐         ┌─────────────────┐
+           │ Create Session  │         │  Join Session   │
+           └────────┬────────┘         └────────┬────────┘
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │ Session Management  │
+                       └──────────┬──────────┘
+                                  │
+                 ┌────────────────┼────────────────┐
+                 │                │                │
+                 ▼                ▼                ▼
+            Messaging       Media Sharing      Moderation
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │  Real-Time Study &  │
+                       │    Collaboration    │
+                       └──────────┬──────────┘
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │ Optional AI Support │
+                       └─────────────────────┘
